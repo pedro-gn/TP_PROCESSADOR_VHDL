@@ -1,0 +1,4 @@
+EN mux2b NULL /var/scratch/labhardware/mux4/mux2b.vhd sub00/vhpl01 1654787097
+EN mux4b NULL /var/scratch/labhardware/mux4/mux4b.vhd sub00/vhpl00 1654787099
+AR mux4b behavioral /var/scratch/labhardware/mux4/mux4b.vhd sub00/vhpl03 1654787100
+AR mux2b behavioral /var/scratch/labhardware/mux4/mux2b.vhd sub00/vhpl02 1654787098
