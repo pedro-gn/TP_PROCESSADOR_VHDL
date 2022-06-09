@@ -1,0 +1,10 @@
+xst -intstyle ise -ifn "/var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/or8b/or8b.xst" -ofn "/var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/or8b/or8b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/or8b/or8b.xst" -ofn "/var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/or8b/or8b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/or8b/or8b.xst" -ofn "/var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/or8b/or8b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/or8b/or8b.xst" -ofn "/var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/or8b/or8b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/or8b/or8b.xst" -ofn "/var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/or8b/or8b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/or8b/or8b.xst" -ofn "/var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/or8b/or8b.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1200e-fg320-4 or8b.ngc or8b.ngd  
+map -intstyle ise -p xc3s1200e-fg320-4 -cm area -ir off -pr off -c 100 -o or8b_map.ncd or8b.ngd or8b.pcf 
+par -w -intstyle ise -ol high -t 1 or8b_map.ncd or8b.ncd or8b.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml or8b.twx or8b.ncd -o or8b.twr or8b.pcf 
