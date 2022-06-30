@@ -1,0 +1,14 @@
+V3 7
+FL "/home/192050012/192050012/Desktop/Naan/lab de ISL/mux2b32/mux2b.vhd" 2022/06/30.11:38:24 P.68d
+EN work/mux2b 1656601372 \
+      FL "/home/192050012/192050012/Desktop/Naan/lab de ISL/mux2b32/mux2b.vhd" \
+      PB ieee/std_logic_1164 1370735607
+AR work/mux2b/Behavioral 1656601373 \
+      FL "/home/192050012/192050012/Desktop/Naan/lab de ISL/mux2b32/mux2b.vhd" \
+      EN work/mux2b 1656601372
+EN work/mux2b32 0 \
+      FL "/home/192050012/192050012/Desktop/Naan/lab de ISL/mux2b32/mux2b32.vhd" \
+      PB ieee/std_logic_1164 1370735607
+AR work/mux2b32/Behavioral 0 \
+      FL "/home/192050012/192050012/Desktop/Naan/lab de ISL/mux2b32/mux2b32.vhd" \
+      EN work/mux2b32 0 CP mux2b

@@ -1,0 +1,15 @@
+V3 7
+FL /var/scratch/labhardware/Documentos/registrador32b/flipFlopD.vhd 2022/06/23.11:32:18 P.68d
+EN work/flipFlopD 1655996188 \
+      FL /var/scratch/labhardware/Documentos/registrador32b/flipFlopD.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/flipFlopD/Behavioral 1655996189 \
+      FL /var/scratch/labhardware/Documentos/registrador32b/flipFlopD.vhd \
+      EN work/flipFlopD 1655996188
+FL /var/scratch/labhardware/Documentos/registrador32b/registrador32b.vhd 2022/06/23.11:56:22 P.68d
+EN work/registrador32b 1655996190 \
+      FL /var/scratch/labhardware/Documentos/registrador32b/registrador32b.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/registrador32b/Behavioral 1655996191 \
+      FL /var/scratch/labhardware/Documentos/registrador32b/registrador32b.vhd \
+      EN work/registrador32b 1655996190 CP flipFlopD

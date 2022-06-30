@@ -1,0 +1,5 @@
+set -tmpdir "/home/192050012/192050012/Desktop/Naan/lab de ISL/mux2b32/xst/projnav.tmp"
+set -xsthdpdir "/home/192050012/192050012/Desktop/Naan/lab de ISL/mux2b32/xst"
+elaborate
+-ifn mux2b.prj
+-ifmt mixed

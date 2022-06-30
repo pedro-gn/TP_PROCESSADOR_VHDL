@@ -1,0 +1,4 @@
+EN flipflopd NULL /var/scratch/labhardware/Documentos/registrador32b/flipFlopD.vhd sub00/vhpl00 1655996188
+EN registrador32b NULL /var/scratch/labhardware/Documentos/registrador32b/registrador32b.vhd sub00/vhpl02 1655996190
+AR registrador32b behavioral /var/scratch/labhardware/Documentos/registrador32b/registrador32b.vhd sub00/vhpl03 1655996191
+AR flipflopd behavioral /var/scratch/labhardware/Documentos/registrador32b/flipFlopD.vhd sub00/vhpl01 1655996189

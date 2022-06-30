@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/var/scratch/labhardware/Documentos/registrador32b/registrador32b.xst" -ofn "/var/scratch/labhardware/Documentos/registrador32b/registrador32b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labhardware/Documentos/registrador32b/registrador32b.xst" -ofn "/var/scratch/labhardware/Documentos/registrador32b/registrador32b.syr" 

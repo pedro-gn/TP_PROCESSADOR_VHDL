@@ -1,0 +1,8 @@
+V3 3
+FL /var/scratch/labhardware/Documentos/somador/somador1b/somador1b.vhd 2022/06/30.12:20:39 P.68d
+EN work/somador1b 1656602541 \
+      FL /var/scratch/labhardware/Documentos/somador/somador1b/somador1b.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/somador1b/Behavioral 1656602542 \
+      FL /var/scratch/labhardware/Documentos/somador/somador1b/somador1b.vhd \
+      EN work/somador1b 1656602541

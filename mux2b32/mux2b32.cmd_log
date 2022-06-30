@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/192050012/192050012/Desktop/Naan/lab de ISL/mux2b32/mux2b32.xst" -ofn "/home/192050012/192050012/Desktop/Naan/lab de ISL/mux2b32/mux2b32.syr" 

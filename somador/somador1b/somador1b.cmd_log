@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/var/scratch/labhardware/Documentos/somador/somador1b/somador1b.xst" -ofn "/var/scratch/labhardware/Documentos/somador/somador1b/somador1b.syr" 
