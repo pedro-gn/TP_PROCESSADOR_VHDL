@@ -1,0 +1,8 @@
+V3 3
+FL /var/scratch/labhardware/decodificador5b/decodificador5b.vhd 2022/06/23.12:26:24 P.68d
+EN work/decodificador5b 1655997991 \
+      FL /var/scratch/labhardware/decodificador5b/decodificador5b.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/NUMERIC_STD 1370735611
+AR work/decodificador5b/Behavioral 1655997992 \
+      FL /var/scratch/labhardware/decodificador5b/decodificador5b.vhd \
+      EN work/decodificador5b 1655997991
