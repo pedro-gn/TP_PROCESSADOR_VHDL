@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.syr" 

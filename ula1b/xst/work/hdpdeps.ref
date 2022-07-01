@@ -1,0 +1,28 @@
+V3 15
+FL /var/scratch/labgeral/Documentos/pedro/ula1b/mux2b.vhd 2022/06/09.14:06:58 P.68d
+EN work/mux2b 1656700167 \
+      FL /var/scratch/labgeral/Documentos/pedro/ula1b/mux2b.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/mux2b/Behavioral 1656700168 \
+      FL /var/scratch/labgeral/Documentos/pedro/ula1b/mux2b.vhd EN work/mux2b 1656700167
+FL /var/scratch/labgeral/Documentos/pedro/ula1b/mux4b.vhd 2022/06/09.14:06:58 P.68d
+EN work/mux4b 1656700171 \
+      FL /var/scratch/labgeral/Documentos/pedro/ula1b/mux4b.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/mux4b/Behavioral 1656700172 \
+      FL /var/scratch/labgeral/Documentos/pedro/ula1b/mux4b.vhd EN work/mux4b 1656700171 \
+      CP mux2b
+FL /var/scratch/labgeral/Documentos/pedro/ula1b/somador1b.vhd 2022/07/01.13:55:40 P.68d
+EN work/somador1b 1656700169 \
+      FL /var/scratch/labgeral/Documentos/pedro/ula1b/somador1b.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/somador1b/Behavioral 1656700170 \
+      FL /var/scratch/labgeral/Documentos/pedro/ula1b/somador1b.vhd \
+      EN work/somador1b 1656700169
+FL /var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.vhd 2022/07/01.15:29:23 P.68d
+EN work/ula1b 1656700173 \
+      FL /var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/ula1b/Behavioral 1656700174 \
+      FL /var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.vhd EN work/ula1b 1656700173 \
+      CP mux2b CP somador1b CP mux4b
