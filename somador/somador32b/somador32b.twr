@@ -1,0 +1,116 @@
+--------------------------------------------------------------------------------
+Release 14.6 Trace  (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+/opt/Xilinx/14.6/ISE_DS/ISE/bin/lin64/unwrapped/trce -intstyle ise -v 3 -s 2I
+-n 3 -fastpaths -xml somador32b.twx somador32b.ncd -o somador32b.twr
+somador32b.pcf
+
+Design file:              somador32b.ncd
+Physical constraint file: somador32b.pcf
+Device,package,speed:     xa7a100t,csg324,I,-2I (PRELIMINARY 1.06 2013-06-08)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+A<0>           |SOMA<0>        |    8.020|
+A<1>           |SOMA<1>        |    8.031|
+A<2>           |SOMA<2>        |    7.798|
+A<3>           |SOMA<3>        |    8.050|
+A<4>           |SOMA<4>        |    8.251|
+A<5>           |SOMA<5>        |    8.275|
+A<6>           |SOMA<6>        |    8.190|
+A<7>           |SOMA<7>        |    8.066|
+A<8>           |SOMA<8>        |    7.997|
+A<9>           |SOMA<9>        |    8.188|
+A<10>          |SOMA<10>       |    8.325|
+A<11>          |SOMA<11>       |    8.185|
+A<12>          |SOMA<12>       |    7.497|
+A<13>          |SOMA<13>       |    7.329|
+A<14>          |SOMA<14>       |    7.613|
+A<15>          |SOMA<15>       |    8.175|
+A<16>          |SOMA<16>       |    7.502|
+A<17>          |SOMA<17>       |    7.948|
+A<18>          |SOMA<18>       |    8.533|
+A<19>          |SOMA<19>       |    6.415|
+A<20>          |SOMA<20>       |    8.353|
+A<21>          |SOMA<21>       |    6.480|
+A<22>          |SOMA<22>       |    6.315|
+A<23>          |SOMA<23>       |    6.602|
+A<24>          |SOMA<24>       |    6.317|
+A<25>          |SOMA<25>       |    6.364|
+A<26>          |SOMA<26>       |    6.681|
+A<27>          |SOMA<27>       |    8.248|
+A<28>          |SOMA<28>       |    7.266|
+A<29>          |SOMA<29>       |    6.304|
+A<30>          |SOMA<30>       |    8.331|
+A<31>          |SOMA<31>       |    7.704|
+B<0>           |SOMA<0>        |    8.784|
+B<1>           |SOMA<1>        |    7.409|
+B<2>           |SOMA<2>        |    8.238|
+B<3>           |SOMA<3>        |    8.156|
+B<4>           |SOMA<4>        |    7.095|
+B<5>           |SOMA<5>        |    7.679|
+B<6>           |SOMA<6>        |    7.915|
+B<7>           |SOMA<7>        |    7.467|
+B<8>           |SOMA<8>        |    7.868|
+B<9>           |SOMA<9>        |    8.226|
+B<10>          |SOMA<10>       |    7.375|
+B<11>          |SOMA<11>       |    8.577|
+B<12>          |SOMA<12>       |    8.100|
+B<13>          |SOMA<13>       |    8.132|
+B<14>          |SOMA<14>       |    8.204|
+B<15>          |SOMA<15>       |    7.985|
+B<16>          |SOMA<16>       |    8.656|
+B<17>          |SOMA<17>       |    8.178|
+B<18>          |SOMA<18>       |    7.776|
+B<19>          |SOMA<19>       |    7.718|
+B<20>          |SOMA<20>       |    7.728|
+B<21>          |SOMA<21>       |    6.380|
+B<22>          |SOMA<22>       |    6.085|
+B<23>          |SOMA<23>       |    8.287|
+B<24>          |SOMA<24>       |    6.148|
+B<25>          |SOMA<25>       |    8.105|
+B<26>          |SOMA<26>       |    7.423|
+B<27>          |SOMA<27>       |    8.166|
+B<28>          |SOMA<28>       |    7.829|
+B<29>          |SOMA<29>       |    8.200|
+B<30>          |SOMA<30>       |    7.895|
+B<31>          |SOMA<31>       |    7.861|
+---------------+---------------+---------+
+
+
+Analysis completed Fri Jul  1 13:18:11 2022 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 764 MB
+
+
+

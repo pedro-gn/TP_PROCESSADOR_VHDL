@@ -1,0 +1,25 @@
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa7a100t-csg324-2I somador32b.ngc somador32b.ngd  
+map -intstyle ise -p xa7a100t-csg324-2I -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o somador32b_map.ncd somador32b.ngd somador32b.pcf 
+par -w -intstyle ise -ol high -mt off somador32b_map.ncd somador32b.ncd somador32b.pcf 
+trce -intstyle ise -v 3 -s 2I -n 3 -fastpaths -xml somador32b.twx somador32b.ncd -o somador32b.twr somador32b.pcf 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/somador/somador32b/somador32b.syr" 

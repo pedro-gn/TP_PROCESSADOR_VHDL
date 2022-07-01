@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="somador32b.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="somador32b.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="somador32b.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="somador32b.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="somador32b.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="somador32b.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="somador32b.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="somador32b.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="somador32b.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="somador32b.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="somador32b.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="somador32b.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="somador32b.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="somador32b.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="somador32b.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="somador32b.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="somador32b.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="somador32b.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="somador32b.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="somador32b.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="somador32b_envsettings.html"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="somador32b_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="somador32b_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="somador32b_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="somador32b_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="somador32b_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="somador32b_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="somador32b_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="somador32b_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="somador32b_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="somador32b_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="somador32b_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="somador32b_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="somador32b_usage.xml"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="somador32b_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1656691810" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1656691810">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656691810" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-1349471378967957717" xil_pn:start_ts="1656691810">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656691810" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-4503224777922628404" xil_pn:start_ts="1656691810">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656691810" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1656691810">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656691810" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="4546485424423964415" xil_pn:start_ts="1656691810">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656691810" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="5702940744460053484" xil_pn:start_ts="1656691810">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656691810" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="6511642221241837014" xil_pn:start_ts="1656691810">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656694986" xil_pn:in_ck="-6267074851972080988" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="-3924530522276077504" xil_pn:start_ts="1656694959">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="somador32b.lso"/>
+      <outfile xil_pn:name="somador32b.ngc"/>
+      <outfile xil_pn:name="somador32b.ngr"/>
+      <outfile xil_pn:name="somador32b.prj"/>
+      <outfile xil_pn:name="somador32b.stx"/>
+      <outfile xil_pn:name="somador32b.syr"/>
+      <outfile xil_pn:name="somador32b.xst"/>
+      <outfile xil_pn:name="somador32b_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1656692230" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="8786272058887360084" xil_pn:start_ts="1656692230">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656692236" xil_pn:in_ck="8738242344693363970" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="9179727202652784500" xil_pn:start_ts="1656692230">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <outfile xil_pn:name="somador32b.bld"/>
+      <outfile xil_pn:name="somador32b.ngd"/>
+      <outfile xil_pn:name="somador32b_ngdbuild.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1656692262" xil_pn:in_ck="8738242344693363971" xil_pn:name="TRANEXT_map_virtex7" xil_pn:prop_ck="3373610943407121171" xil_pn:start_ts="1656692236">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+      <outfile xil_pn:name="somador32b.pcf"/>
+      <outfile xil_pn:name="somador32b_map.map"/>
+      <outfile xil_pn:name="somador32b_map.mrp"/>
+      <outfile xil_pn:name="somador32b_map.ncd"/>
+      <outfile xil_pn:name="somador32b_map.ngm"/>
+      <outfile xil_pn:name="somador32b_map.xrpt"/>
+      <outfile xil_pn:name="somador32b_summary.xml"/>
+      <outfile xil_pn:name="somador32b_usage.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1656692291" xil_pn:in_ck="787887223456861596" xil_pn:name="TRANEXT_par_virtex5" xil_pn:prop_ck="-8066324139983898644" xil_pn:start_ts="1656692262">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+      <outfile xil_pn:name="somador32b.ncd"/>
+      <outfile xil_pn:name="somador32b.pad"/>
+      <outfile xil_pn:name="somador32b.par"/>
+      <outfile xil_pn:name="somador32b.ptwx"/>
+      <outfile xil_pn:name="somador32b.unroutes"/>
+      <outfile xil_pn:name="somador32b.xpi"/>
+      <outfile xil_pn:name="somador32b_pad.csv"/>
+      <outfile xil_pn:name="somador32b_pad.txt"/>
+      <outfile xil_pn:name="somador32b_par.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1656692291" xil_pn:in_ck="8738242344693363839" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="-3742689831323817471" xil_pn:start_ts="1656692280">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+      <outfile xil_pn:name="somador32b.twr"/>
+      <outfile xil_pn:name="somador32b.twx"/>
+    </transform>
+  </transforms>
+
+</generated_project>
