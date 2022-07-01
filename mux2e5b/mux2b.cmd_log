@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/202050045/202050045/Documentos/MUX2ENTRADAS5BITS/mux2b.xst" -ofn "/home/202050045/202050045/Documentos/MUX2ENTRADAS5BITS/mux2b.syr" 
