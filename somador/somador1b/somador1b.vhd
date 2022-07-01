@@ -21,8 +21,8 @@ end somador1b;
 architecture Behavioral of somador1b is
 
 begin
-	SOMA <= A nand B;
-	COUT <= A and B;
+	SOMA <= A xor B xor CIN;
+	COUT <= (A and B) or (A and CIN) or (B and CIN);
 
 end Behavioral;
 
