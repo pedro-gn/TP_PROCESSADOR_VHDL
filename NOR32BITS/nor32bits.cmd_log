@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/202050045/202050045/Documentos/Leonardo Carneiro 23.06/NOR32BITS/nor32bits.xst" -ofn "/home/202050045/202050045/Documentos/Leonardo Carneiro 23.06/NOR32BITS/nor32bits.syr" 

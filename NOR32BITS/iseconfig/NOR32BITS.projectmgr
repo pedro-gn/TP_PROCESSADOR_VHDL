@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="NOR32BITS" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/NOR32Bits - Behavioral |home|202050045|202050045|Documentos|Leonardo Carneiro 23.06|NOR32BITS|NOR32Bits.vhd/or8b0 - OR8Bits - Behavioral</ClosedNode>
+         <ClosedNode>/NOR32Bits - Behavioral |home|202050045|202050045|Documentos|Leonardo Carneiro 23.06|NOR32BITS|NOR32Bits.vhd/or8b1 - OR8Bits - Behavioral</ClosedNode>
+         <ClosedNode>/NOR32Bits - Behavioral |home|202050045|202050045|Documentos|Leonardo Carneiro 23.06|NOR32BITS|NOR32Bits.vhd/or8b2 - OR8Bits - Behavioral</ClosedNode>
+         <ClosedNode>/NOR32Bits - Behavioral |home|202050045|202050045|Documentos|Leonardo Carneiro 23.06|NOR32BITS|NOR32Bits.vhd/or8b3 - OR8Bits - Behavioral</ClosedNode>
+         <ClosedNode>/nor32bits - Behavioral |home|202050045|202050045|Documentos|Leonardo Carneiro 23.06|NOR32BITS|NOR32Bits.vhd/or8b1 - or8b - Behavioral</ClosedNode>
+         <ClosedNode>/nor32bits - Behavioral |home|202050045|202050045|Documentos|Leonardo Carneiro 23.06|NOR32BITS|NOR32Bits.vhd/or8b2 - or8b - Behavioral</ClosedNode>
+         <ClosedNode>/nor32bits - Behavioral |home|202050045|202050045|Documentos|Leonardo Carneiro 23.06|NOR32BITS|NOR32Bits.vhd/or8b3 - or8b - Behavioral</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000016f000000020000000000000000000000000200000064ffffffff0000008100000003000000020000016f0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>NOR32Bits - Behavioral (/home/202050045/202050045/Documentos/Leonardo Carneiro 23.06/NOR32BITS/NOR32Bits.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000157000000010000000100000000000000000000000064ffffffff000000810000000000000001000001570000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000039c000000040101000100000000000000000000000064ffffffff0000008100000000000000040000005100000001000000000000002900000001000000000000008400000001000000000000029e0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>NOR32Bits.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000125000000010001000100000000000000000000000064ffffffff000000810000000000000001000001250000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>View RTL Schematic</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000157000000010000000100000000000000000000000064ffffffff000000810000000000000001000001570000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>View RTL Schematic</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000001510000012001000000060100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+</Project>

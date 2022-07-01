@@ -1,0 +1,3 @@
+vhdl work "OR4Bits.vhd"
+vhdl work "OR8Bits.vhd"
+vhdl work "NOR32Bits.vhd"

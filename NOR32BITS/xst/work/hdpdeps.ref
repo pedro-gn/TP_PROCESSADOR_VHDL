@@ -1,0 +1,28 @@
+V3 17
+FL "/home/202050045/202050045/Documentos/Leonardo Carneiro 23.06/NOR32BITS/NOR32Bits.vhd" 2022/07/01.14:49:41 P.68d
+EN work/nor32bits 1656697787 \
+      FL "/home/202050045/202050045/Documentos/Leonardo Carneiro 23.06/NOR32BITS/NOR32Bits.vhd" \
+      PB ieee/std_logic_1164 1370735607
+AR work/nor32bits/Behavioral 1656697788 \
+      FL "/home/202050045/202050045/Documentos/Leonardo Carneiro 23.06/NOR32BITS/NOR32Bits.vhd" \
+      EN work/nor32bits 1656697787 CP OR8Bits
+FL "/home/202050045/202050045/Documentos/Leonardo Carneiro 23.06/NOR32BITS/OR4Bits.vhd" 2022/07/01.14:50:18 P.68d
+AR work/or4b/Behavioral 1656697337 \
+      FL "/home/202050045/202050045/Documentos/Leonardo Carneiro 23.06/NOR32BITS/OR4Bits.vhd" \
+      EN work/or4b 1656697336
+EN work/OR4Bits 1656697783 \
+      FL "/home/202050045/202050045/Documentos/Leonardo Carneiro 23.06/NOR32BITS/OR4Bits.vhd" \
+      PB ieee/std_logic_1164 1370735607
+AR work/OR4Bits/Behavioral 1656697784 \
+      FL "/home/202050045/202050045/Documentos/Leonardo Carneiro 23.06/NOR32BITS/OR4Bits.vhd" \
+      EN work/OR4Bits 1656697783
+FL "/home/202050045/202050045/Documentos/Leonardo Carneiro 23.06/NOR32BITS/OR8Bits.vhd" 2022/07/01.14:51:14 P.68d
+AR work/or8b/Behavioral 1656697339 \
+      FL "/home/202050045/202050045/Documentos/Leonardo Carneiro 23.06/NOR32BITS/OR8Bits.vhd" \
+      EN work/or8b 1656697338 CP or4b
+EN work/OR8Bits 1656697785 \
+      FL "/home/202050045/202050045/Documentos/Leonardo Carneiro 23.06/NOR32BITS/OR8Bits.vhd" \
+      PB ieee/std_logic_1164 1370735607
+AR work/OR8Bits/Behavioral 1656697786 \
+      FL "/home/202050045/202050045/Documentos/Leonardo Carneiro 23.06/NOR32BITS/OR8Bits.vhd" \
+      EN work/OR8Bits 1656697785 CP OR4Bits
