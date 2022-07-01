@@ -1,0 +1,15 @@
+V3 7
+FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/or8b/or4b.vhd 2022/06/09.13:57:27 P.68d
+EN work/or4b 1654793948 \
+      FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/or8b/or4b.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/or4b/Behavioral 1654793949 \
+      FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/or8b/or4b.vhd \
+      EN work/or4b 1654793948
+FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/or8b/or8b.vhd 2022/06/09.13:59:02 P.68d
+EN work/or8b 1654793950 \
+      FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/or8b/or8b.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/or8b/Behavioral 1654793951 \
+      FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/or8b/or8b.vhd \
+      EN work/or8b 1654793950 CP or4b
