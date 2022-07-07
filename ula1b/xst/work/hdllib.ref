@@ -1,8 +1,0 @@
-EN mux2b NULL /var/scratch/labgeral/Documentos/pedro/ula1b/mux2b.vhd sub00/vhpl01 1656700167
-EN mux4b NULL /var/scratch/labgeral/Documentos/pedro/ula1b/mux4b.vhd sub00/vhpl05 1656700171
-EN somador1b NULL /var/scratch/labgeral/Documentos/pedro/ula1b/somador1b.vhd sub00/vhpl03 1656700169
-EN ula1b NULL /var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.vhd sub00/vhpl00 1656700173
-AR ula1b behavioral /var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.vhd sub00/vhpl07 1656700174
-AR mux4b behavioral /var/scratch/labgeral/Documentos/pedro/ula1b/mux4b.vhd sub00/vhpl06 1656700172
-AR mux2b behavioral /var/scratch/labgeral/Documentos/pedro/ula1b/mux2b.vhd sub00/vhpl02 1656700168
-AR somador1b behavioral /var/scratch/labgeral/Documentos/pedro/ula1b/somador1b.vhd sub00/vhpl04 1656700170
