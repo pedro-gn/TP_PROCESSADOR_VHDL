@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/ula1b</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/ula1b.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/ula1b/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/ula1b.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/mux4b</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/var/scratch/labgeral/Documentos/pedro/ula1b/mux4b.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/mux4b.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/mux4b/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/var/scratch/labgeral/Documentos/pedro/ula1b/mux4b.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/mux4b.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/somador1b</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/var/scratch/labgeral/Documentos/pedro/ula1b/somador1b.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/somador1b.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/somador1b/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/var/scratch/labgeral/Documentos/pedro/ula1b/somador1b.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/somador1b.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/mux2b</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/var/scratch/labgeral/Documentos/pedro/ula1b/mux2b.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/mux2b.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/mux2b/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/var/scratch/labgeral/Documentos/pedro/ula1b/mux2b.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/mux2b.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="Xst" num="1306" delta="old" >Output &lt;<arg fmt="%s" index="1">SET</arg>&gt; is never assigned.
+</msg>
+
+</messages>
+

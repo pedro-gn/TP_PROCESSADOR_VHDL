@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.xst" -ofn "/var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.syr" 
+xst -intstyle ise -ifn "/var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/ula1b.xst" -ofn "/var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/ula1b.syr" 

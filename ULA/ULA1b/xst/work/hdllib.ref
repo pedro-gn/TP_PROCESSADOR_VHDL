@@ -1,0 +1,8 @@
+EN mux2b NULL /var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/mux2b.vhd sub00/vhpl01 1657205091
+EN mux4b NULL /var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/mux4b.vhd sub00/vhpl05 1657205095
+EN somador1b NULL /var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/somador1b.vhd sub00/vhpl03 1657205093
+EN ula1b NULL /var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/ula1b.vhd sub00/vhpl00 1657205097
+AR ula1b behavioral /var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/ula1b.vhd sub00/vhpl07 1657205098
+AR mux4b behavioral /var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/mux4b.vhd sub00/vhpl06 1657205096
+AR mux2b behavioral /var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/mux2b.vhd sub00/vhpl02 1657205092
+AR somador1b behavioral /var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/somador1b.vhd sub00/vhpl04 1657205094

@@ -1,0 +1,33 @@
+V3 19
+FL /var/scratch/labgeral/Documentos/pedro/ula1b/mux2b.vhd 2022/06/09.14:06:58 P.68d
+FL /var/scratch/labgeral/Documentos/pedro/ula1b/mux4b.vhd 2022/06/09.14:06:58 P.68d
+FL /var/scratch/labgeral/Documentos/pedro/ula1b/somador1b.vhd 2022/07/01.13:55:40 P.68d
+FL /var/scratch/labgeral/Documentos/pedro/ula1b/ula1b.vhd 2022/07/01.15:29:23 P.68d
+FL /var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/mux2b.vhd 2022/07/01.15:30:26 P.68d
+EN work/mux2b 1657205091 \
+      FL /var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/mux2b.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/mux2b/Behavioral 1657205092 \
+      FL /var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/mux2b.vhd \
+      EN work/mux2b 1657205091
+FL /var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/mux4b.vhd 2022/07/01.15:30:26 P.68d
+EN work/mux4b 1657205095 \
+      FL /var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/mux4b.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/mux4b/Behavioral 1657205096 \
+      FL /var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/mux4b.vhd \
+      EN work/mux4b 1657205095 CP mux2b
+FL /var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/somador1b.vhd 2022/07/01.15:30:26 P.68d
+EN work/somador1b 1657205093 \
+      FL /var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/somador1b.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/somador1b/Behavioral 1657205094 \
+      FL /var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/somador1b.vhd \
+      EN work/somador1b 1657205093
+FL /var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/ula1b.vhd 2022/07/07.11:44:44 P.68d
+EN work/ula1b 1657205097 \
+      FL /var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/ula1b.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/ula1b/Behavioral 1657205098 \
+      FL /var/scratch/labhardware/Documentos/TP_PROCESSADOR_VHDL-main/ULA1b/ula1b.vhd \
+      EN work/ula1b 1657205097 CP mux2b CP somador1b CP mux4b
