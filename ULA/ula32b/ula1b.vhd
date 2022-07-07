@@ -52,7 +52,8 @@ begin
 
 	SAANDB <= SA and SB;
 	SAORB <= SA or SB;
-
+	
+	
 	mux2bA : mux2b port map(
 		A => A,
 		B => not A,
@@ -86,6 +87,7 @@ begin
 		X=> RESULT
 		);
 	
+	SET <= SSOMA;
 	
 end Behavioral;
 

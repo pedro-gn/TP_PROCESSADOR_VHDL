@@ -1,0 +1,7 @@
+vhdl work "mux2b.vhd"
+vhdl work "somador1b.vhd"
+vhdl work "OR8Bits.vhd"
+vhdl work "mux4b.vhd"
+vhdl work "ula1b.vhd"
+vhdl work "NOR32Bits.vhd"
+vhdl work "ula32b.vhd"

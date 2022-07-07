@@ -1,0 +1,14 @@
+EN mux2b NULL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/mux2b.vhd sub00/vhpl00 1657219237
+EN mux4b NULL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/mux4b.vhd sub00/vhpl04 1657219241
+EN somador1b NULL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/somador1b.vhd sub00/vhpl02 1657219239
+EN ula1b NULL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/ula1b.vhd sub00/vhpl06 1657219247
+EN or8bits NULL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/OR8Bits.vhd sub00/vhpl10 1657219243
+AR or8bits behavioral /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/OR8Bits.vhd sub00/vhpl11 1657219244
+EN ula32b NULL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/ula32b.vhd sub00/vhpl08 1657219249
+AR ula1b behavioral /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/ula1b.vhd sub00/vhpl07 1657219248
+AR mux4b behavioral /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/mux4b.vhd sub00/vhpl05 1657219242
+EN nor32bits NULL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/NOR32Bits.vhd sub00/vhpl12 1657219245
+AR nor32bits behavioral /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/NOR32Bits.vhd sub00/vhpl13 1657219246
+AR mux2b behavioral /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/mux2b.vhd sub00/vhpl01 1657219238
+AR ula32b behavioral /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/ula32b.vhd sub00/vhpl09 1657218093
+AR somador1b behavioral /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/somador1b.vhd sub00/vhpl03 1657219240

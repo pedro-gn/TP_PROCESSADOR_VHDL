@@ -1,0 +1,50 @@
+V3 28
+FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/mux2b.vhd 2022/07/07.11:54:29 P.68d
+EN work/mux2b 1657219237 \
+      FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/mux2b.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/mux2b/Behavioral 1657219238 \
+      FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/mux2b.vhd \
+      EN work/mux2b 1657219237
+FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/mux4b.vhd 2022/07/07.11:54:29 P.68d
+EN work/mux4b 1657219241 \
+      FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/mux4b.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/mux4b/Behavioral 1657219242 \
+      FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/mux4b.vhd \
+      EN work/mux4b 1657219241 CP mux2b
+FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/NOR32Bits.vhd 2022/07/07.11:54:29 P.68d
+EN work/NOR32Bits 1657219245 \
+      FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/NOR32Bits.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/NOR32Bits/Behavioral 1657219246 \
+      FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/NOR32Bits.vhd \
+      EN work/NOR32Bits 1657219245 CP OR8Bits
+FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/OR8Bits.vhd 2022/07/07.11:54:29 P.68d
+EN work/OR8Bits 1657219243 \
+      FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/OR8Bits.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/OR8Bits/Behavioral 1657219244 \
+      FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/OR8Bits.vhd \
+      EN work/OR8Bits 1657219243 CP OR4Bits
+FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/somador1b.vhd 2022/07/07.11:54:29 P.68d
+EN work/somador1b 1657219239 \
+      FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/somador1b.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/somador1b/Behavioral 1657219240 \
+      FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/somador1b.vhd \
+      EN work/somador1b 1657219239
+FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/ula1b.vhd 2022/07/07.14:55:09 P.68d
+EN work/ula1b 1657219247 \
+      FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/ula1b.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/ula1b/Behavioral 1657219248 \
+      FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/ula1b.vhd \
+      EN work/ula1b 1657219247 CP mux2b CP somador1b CP mux4b
+FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/ula32b.vhd 2022/07/07.15:21:18 P.68d
+EN work/ula32b 1657218092 \
+      FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/ula32b.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/ula32b/Behavioral 1657218093 \
+      FL /var/scratch/labgeral/Downloads/TP_PROCESSADOR_VHDL-main/ULA/ula32b/ula32b.vhd \
+      EN work/ula32b 1657218092 CP NOR32Bits CP ula1b
